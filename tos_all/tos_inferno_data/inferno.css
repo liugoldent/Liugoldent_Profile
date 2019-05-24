@@ -1,0 +1,38 @@
+html{
+    height:100%;
+}
+
+body{
+    background-image:url(https://i.imgur.com/QMpjxWq.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+}
+
+.col-sm-3{
+    color:aliceblue;
+    text-align:center;
+    top:110px;
+}
+
+
+.container{
+    color:aliceblue;
+    position:relative;
+    top:150px;
+    text-align: center;
+}
+
+#inferno{
+        border-style: ridge;
+        height:38px;
+}
+#footer{
+    color:antiquewhite;
+    width:100%; 
+    position: absolute; 
+    bottom: 0;
+    text-align: center;
+}
+

@@ -1,0 +1,52 @@
+html{
+    height:100%;
+}
+
+body{
+    background-image:url(https://i.imgur.com/QMpjxWq.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+}
+#title1{
+    text-align:center;
+    top:100px;
+    color:white;
+    font-family:fantasy;
+}
+.col-sm-3{
+    color:aliceblue;
+    text-align:center;
+    top:35px;
+}
+
+
+
+#exercise{
+    color:darkgray;
+    position:relative;
+    top:105px;
+    text-align:center;
+}
+
+#start_title{
+    color:aliceblue;
+}
+
+.table{
+    color:dimgray;
+    position:relative;
+    top:10px;
+    text-align: center;
+}
+
+#footer{
+    color:antiquewhite;
+    width:100%; 
+    position: absolute; 
+    bottom: 0;
+    text-align: center;
+}
+
+
