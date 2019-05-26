@@ -1,0 +1,190 @@
+html {
+    scroll-behavior: smooth;
+}
+*{
+    font-family: serif;
+}
+hr {
+    border: 2px;
+    height: 4px ;
+    background-color:navajowhite;
+    width: 50px;
+    margin: 30px auto;
+}
+body{
+    position: relative;
+}
+
+
+/*  Section1 Desgin 第一個內容區背景 */
+body #section1{
+    background-image:url(https://i.imgur.com/H6uABwS.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    height: 1000px;
+    max-width: auto;
+}
+#section1_text{
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+    top:25%;
+}
+
+#section1_text h1{
+    font-size:100px;
+}
+
+#section1_text p{
+    font-size:25px;
+}
+
+#section1_text i:hover{
+    color:lightskyblue;
+}
+
+
+
+
+/*  Section2 Desgin 技能背景  */
+body #section2{
+    background-color: aliceblue;
+    height:auto;
+    max-width: 100%;
+}
+
+body #section2 #section2_all h1{
+    text-align:center;
+    color:gray;
+    font-family: serif;
+    position:relative;
+    margin:0px auto;
+}
+
+
+body #section2 #section2_all .row .col-12,.col-sm-4,.col-md-4,.col-lg-4{
+    position: relative;
+    top:70px;;
+    color:black;
+    text-align:center;
+    vertical-align: 50px;
+    width:100px;
+    height:500px;
+}
+
+
+body #section2_all .row .icon_display i:hover {
+        transition: transform 1s;
+        transform: rotate(360deg);
+}
+
+
+
+/*  Section3 Desgin 作品背景 */
+body #section3{
+    background-image:url(https://i.imgur.com/vhQE5rh.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    height: auto;
+    max-width: 100%;
+}
+
+
+body #section3 .row .col-12,.col-sm-12,.col-md-4,.col-lg-4{
+    color:aliceblue;
+    text-align:center;
+    top:100px;
+    width:100px;
+    height:750px;
+}
+
+#section3 .row *{
+	border-radius: 10px;
+	border-radius: 10px;
+	border-radius: 10px;
+}
+
+
+
+/*  Section4 Desgin 關於我背景 */
+body #section4{
+    background-color:seashell;
+    height:auto;
+    max-width: 100%;
+}
+
+body #section4 #About_Me h1{
+    position:relative;
+    margin:0px auto;
+    color:black;
+    text-align:center;
+    top:60px;
+}
+
+#accordion{
+    color:black;
+}
+
+
+
+body #section4 .row .col-12,.col-sm-12,.col-md-12,.col-lg-6{
+    color:aliceblue;
+    text-align:center;
+    top:100px;
+    width:auto;
+    height:750px;
+}
+
+/*  Section5 Desgin 聯絡資訊背景 */
+body #section5{
+    background-image:url(https://i.imgur.com/WiHcgRV.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    height: 400px;;
+    max-width: 100%;
+}
+
+#section5_text{
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+    top:25%;
+    word-spacing:10px;
+}
+
+#section5_icon{
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+    top:25%;
+    word-spacing:20px;
+}
+
+
+#foorter{
+    background-color:black;
+    height:100px;
+    max-width: 100%;
+    position:relative;
+    margin:0px auto;
+    color:antiquewhite;
+    text-align:center;
+}
+
+#copyright{
+    position:relative;
+    top:30%;
+}
+
+#section5_icon *:hover{
+    color:peachpuff;
+}
