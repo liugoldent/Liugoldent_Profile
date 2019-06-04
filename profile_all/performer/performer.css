@@ -53,7 +53,9 @@ body .tab-content h3{
 }
 
 body #icon{
+    position:relative;
     letter-spacing: 30px;
+    margin:0 auto;
 }
 
 body #icon i:hover{
