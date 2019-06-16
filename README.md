@@ -18,4 +18,6 @@
 - [X] [Bootstrap]
 - [X] [AJAX、JSON]
 - [X] [Vue.js]
+- [X] [Google maps Embed Api]
+
 
