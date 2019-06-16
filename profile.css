@@ -114,6 +114,10 @@ body #section3 .row .col-12,.col-sm-12,.col-md-4,.col-lg-4{
     transform: scale(1.2,1.2);
 }
 
+#section3 p{
+    font-size:18px;
+}
+
 
 /*  Section4 Desgin 關於我背景 */
 body #section4{
