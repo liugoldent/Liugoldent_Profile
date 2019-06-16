@@ -1,7 +1,8 @@
 # About Me Web
+ 1. Go ! Front End Engineer
 
 
-## 連結（Links）
+## 作品Links
 
 - [X] [簡歷](https://liugoldent.github.io/LgtProfile/profile.html)
 - [X] [京都/大阪行](https://liugoldent.github.io/Travel/Travel.html)
