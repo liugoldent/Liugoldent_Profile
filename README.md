@@ -2,7 +2,7 @@
  1. Go ! Front End Engineer
 
 
-## 作品Links
+## 作品連結Links
 
 - [X] [簡歷](https://liugoldent.github.io/LgtProfile/profile.html)
 - [X] [京都/大阪行 Travel](https://liugoldent.github.io/Travel/Travel.html)
