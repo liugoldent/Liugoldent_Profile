@@ -6,6 +6,7 @@
 
 - [X] [簡歷](https://liugoldent.github.io/LgtProfile/profile.html)
 - [X] [京都/大阪行 Travel](https://liugoldent.github.io/Travel/Travel.html)
+- [X] [T-Bike 租借](https://liugoldent.github.io/TBikeRent/TBike.html)
 - [X] [台灣各地氣候 Taiwan Climate](https://liugoldent.github.io/TaiwanClimate/TaiwanClimate.html)
 - [X] [鍵盤鋼琴 KeyboardPiano](https://liugoldent.github.io/KeyboardPiano/music.html)
 - [X] [學習英文單字 LearnVocabulary](https://liugoldent.github.io/LearnVocabulary/English.html)
@@ -20,7 +21,9 @@
 - [X] [Bootstrap]
 - [X] [AJAX、JSON、AXIOS]
 - [X] [Vue.js]
-- [X] [Google maps Embed API]
+- [X] [Google maps Embed API、Google Maps API]
 - [X] [中央氣象局 API]
+- [X] [臺南市政府開放資料平台]
+
 
 
