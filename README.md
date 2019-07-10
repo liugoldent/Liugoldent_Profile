@@ -19,6 +19,7 @@
 - [X] [HTML、CSS]
 - [X] [JS、jQuery]
 - [X] [Bootstrap]
+- [X] [RWD]
 - [X] [AJAX、JSON、AXIOS]
 - [X] [Vue.js]
 - [X] [Google maps Embed API、Google Maps API]
