@@ -49,7 +49,7 @@ body #section1{
 }
 
 #section1_text p{
-    font-size:25px;
+    font-size:40;
 }
 
 #section1_text i:hover{
@@ -128,9 +128,6 @@ body #section3 .row .col-12,.col-sm-12,.col-md-6,.col-lg-4,.col-xl-4{
     transform: scale(1.2,1.2);
 }
 
-#section3 p{
-    font-size:18px;
-}
 
 #section3 .row{
     margin:0px;
