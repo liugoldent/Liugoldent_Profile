@@ -12,7 +12,7 @@ hr {
     margin: 30px auto;
 }
 body{
-    position: relative;
+    position: relative;    
 }
 #all{
     padding:0px;
@@ -23,8 +23,6 @@ body{
 a.navbar-brand{
     padding-left:25px;
 }
-
-
 
 
 
@@ -93,7 +91,9 @@ body #section2_all .row .icon_display i:hover {
         transition: transform 1s;
         transform: rotate(360deg);
 }
-
+#section2_all div.row{
+    margin:0px auto;
+}
 
 
 /*  Section3 Desgin 作品背景 */
@@ -130,6 +130,9 @@ body #section3 .row .col-12,.col-sm-12,.col-md-4,.col-lg-4{
     font-size:18px;
 }
 
+#section3 .row{
+    margin:0px;
+}
 
 /*  Section4 Desgin 關於我背景 */
 body #section4{
@@ -144,6 +147,9 @@ body #section4 #About_Me h1{
     color:black;
     text-align:center;
     top:60px;
+}
+#section4 .row{
+    margin:0px;
 }
 
 #accordion{
@@ -182,7 +188,7 @@ body #section5{
 
 #section5_icon{
     position:relative;
-    margin:0px auto;
+    margin:auto;
     color:antiquewhite;
     text-align:center;
     top:25%;
