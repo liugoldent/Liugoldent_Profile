@@ -3,8 +3,7 @@
 
 
 ## 作品連結Links
-
-- [X] [簡歷](https://liugoldent.github.io/LgtProfile/profile.html)
+- [X] [簡歷](http://guan-portfolio.surge.sh/)
 - [X] [京都/大阪行 Travel](https://liugoldent.github.io/Travel/Travel.html)
 - [X] [T-Bike 租借](https://liugoldent.github.io/TBikeRent/TBike.html)
 - [X] [台灣各地氣候 Taiwan Climate](https://liugoldent.github.io/Climate/TaiwanClimate.html)
